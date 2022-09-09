@@ -1,2 +1,1 @@
-#!/bin/bash
-gcc -E $CFILE -o c
+This file output hello world
